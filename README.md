@@ -25,5 +25,7 @@ The objective of this analysis is to identify factors that affect visibility and
 * Generally, the number of viewers slightly affected by the length of the title. The shorter the title of the video, the slightly more viewers it receives.
 * Overall, the like_ and comment_rate are very low compared to the size of viewers. The maximum like rate is ~7% whereas the minimum is ~3%. The rate is not greatly altered by the duration of the video or the timing of its broadcast.
 
+(https://github.com/derewor/Anchor_Media_Project/blob/main/document/Anchor%20View.png)
+
 # **Conclusion and Recommendation**
 The analysis with limited datasets indicated that video durations less than 40 minute recieves more viewers. Furthermore, broadcasting the videos between 6 and 9 AM in the morning increases the number of viewers by 15000. Therefore, I recommend Anchor media to trim the video lengths within in these durations and also release them between 6 and 9AM in the morning. This ensures more people to watch it.
