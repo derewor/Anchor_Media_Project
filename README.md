@@ -1,3 +1,4 @@
+![Anchor_Media_Project](https://github.com/derewor/Anchor_Media_Project/blob/main/document/Anchor%20Logo.png)
 # Anchor_Media_Project
 ## **Executive Summary**
 ### **Introduction**
