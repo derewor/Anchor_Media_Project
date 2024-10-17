@@ -14,7 +14,6 @@ The data do not contain information about the number of viewers on the first, se
 2. Does the timing of the broadacast affect the number of viewers?
 3. Does shorter video titles receive more visbility than long titles?
 4. What proportion of the viewers like, dislike or comment the video?
-5. Which duration of videos receive more like, dislike or comment? shorter or longer?
 
 ### **Objectives** 
 The objective of this analysis is to identify factors that affect visibility and recommend the owner to employ them so that the channel popularity and visibility increases.
