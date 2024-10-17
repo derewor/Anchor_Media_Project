@@ -16,7 +16,7 @@ The data do not contain information about the number of viewers on the first, se
 4. What proportion of the viewers like, dislike or comment the video?
 
 ### **Objectives** 
-The objective of this analysis is to identify factors that affect visibility and recommend the owner to employ them so that the channel popularity and visibility increases.
+The objective of this analysis was to identify factors that affect the visibility of the channel and recommend the owner an appropriate measures to enhance the channel popularity and visibility across the globe.
 
 # **Results**
 * Generally shorter videos appear to receive more viewers than longer videos. The video duration of 20-40 min received the highest average number of viewers. For example, the video duration of 20-40 min received on average 35000 more viewers than when the the video duration is 80-100 min. The number of likes also reduce linearly with increasing the duration of the video. However, the number of videos of this duration is by half less than the number of videos of more than one hour length.
