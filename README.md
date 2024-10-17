@@ -18,3 +18,12 @@ The data do not contain information about the number of viewers on the first, se
 
 ### **Objectives** 
 The objective of this analysis is to identify factors that affect visibility and recommend the owner to employ them so that the channel popularity and visibility increases.
+
+# **Results**
+* Generally shorter videos appear to receive more viewers than longer videos. The video duration of 20-40 min received the highest average number of viewers. For example, the video duration of 20-40 min received on average 35000 more viewers than when the the video duration is 80-100 min. The number of likes also reduce linearly with increasing the duration of the video. However, the number of videos of this duration is by half less than the number of videos of more than one hour length.
+* Videos that are published between 6 and 9 AM in the morning received more viewers than published any other time during the day. This morning hours in europe are likely late evenning in USA. By publishing the videos in this time block, the number of viewers can be increased by at least 15000 more. The average number of likes and comments are also higher on videos puvlished in this time block.
+* Generally, the number of viewers slightly affected by the length of the title. The shorter the title of the video, the slightly more viewers it receives.
+* Overall, the like_ and comment_rate are very low compared to the size of viewers. The maximum like rate is ~7% whereas the minimum is ~3%. The rate is not greatly altered by the duration of the video or the timing of its broadcast.
+
+# **Conclusion and Recommendation**
+The analysis with limited datasets indicated that video durations less than 40 minute recieves more viewers. Furthermore, broadcasting the videos between 6 and 9 AM in the morning increases the number of viewers by 15000. Therefore, I recommend Anchor media to trim the video lengths within in these durations and also release them between 6 and 9AM in the morning. This ensures more people to watch it.
